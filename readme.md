@@ -1,7 +1,11 @@
 # YOLOv8 Object Detection
 
 This project demonstrates how to use the YOLOv8 model for object detection on images, videos, and live webcam feeds using OpenCV.
-https://cloud-3db1bfuhw-hack-club-bot.vercel.app/0output_image.jpg
+
+
+<img src="https://cloud-3db1bfuhw-hack-club-bot.vercel.app/0output_image.jpg" alt="object detection">
+
+
 ## Requirements
 
 - Python 3.6+
